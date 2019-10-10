@@ -1,7 +1,6 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 fusing_components = {"blanks" => "base layer for project", "nippits" => "assorted colors of glass pieces", "chips" => "small squares of various color"}
-  
 end
 
 
